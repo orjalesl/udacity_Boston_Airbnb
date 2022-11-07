@@ -11,7 +11,6 @@ Using 2016 Airbnb data from the Boston area, I chose to explore metrics to help 
   import pandas as pd
   import numpy as np
   import matplotlib.pyplot as plt
-  from datetime import date as dt
 ```
 
 # File
