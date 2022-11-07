@@ -17,7 +17,7 @@ Using 2016 Airbnb data from the Boston area, I chose to explore metrics to help 
 # File
  
   The file used in this analysis was retrieved from Kaggle - https://www.kaggle.com/datasets/airbnb/boston.
-  The data set consists of 2016 Airbnb listings in the Boston Area. There were a total of 3585 unique obersvations and 95 variables.
+  The 'listings.csv' data set consists of 2016 Airbnb listings in the Boston Area. There were a total of 3585 unique obersvations and 95 variables.
   
 # Summary of Results
 1. I observed that there was no clear relationship between price per nights and utilization rate in the Boston Airbnb listings within the data set 
