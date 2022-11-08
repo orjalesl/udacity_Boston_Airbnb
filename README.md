@@ -9,7 +9,7 @@ Airbnb has certainly made an impact on today's hospitality industry. In 2022, Ai
 Using 2016 Airbnb data from the Boston area, I chose to explore metrics to help investors answer potential questions such as:
 
 #### 1. What is the Relationship Between Price and Utilization?
-#### 2. What are the top 10 neighbourhoods with the highest median projected revenue?
+#### 2. What are the Top 10 Neighborhoods with the highest median projected revenue?
 #### 3. Which Neighborhoods Will Make Me My Money Back the Soonest?
 
 
